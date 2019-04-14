@@ -1,0 +1,51 @@
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.pdb
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.dll
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Imaging.dll
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Video.dll
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Vision.dll
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Math.dll
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.xml
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Imaging.xml
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Video.xml
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Vision.xml
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\AForge.Math.xml
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csprojResolveAssemblyReference.cache
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Form1.resources
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Properties.Resources.resources
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.GenerateResource.Cache
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+c:\users\aybüke\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\AForge.Math.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\AForge.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\AForge.Imaging.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\AForge.Video.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\AForge.Vision.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\AForge.Math.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Görüntü_İşleme_Nesnetakip\orta değerli 2. proje\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Çiğdem_dosyalar\C#_nesne_takip\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Çiğdem_dosyalar\C#_nesne_takip\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Çiğdem_dosyalar\C#_nesne_takip\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Çiğdem_dosyalar\C#_nesne_takip\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Çiğdem_dosyalar\C#_nesne_takip\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Çiğdem_dosyalar\C#_nesne_takip\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\C#_Arduino_goruntuisleme_Nesne_takip\Çiğdem_dosyalar\C#_nesne_takip\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.GenerateResource.Cache
